@@ -5,3 +5,7 @@
   .card-wrapper {
     @apply max-w-xl mx-auto px-8 py-4 bg-white rounded-lg shadow-lg;
   }
+
+  body{
+    background-color: #0e1726;
+  }
